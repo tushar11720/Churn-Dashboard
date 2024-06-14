@@ -1,4 +1,4 @@
-# Churm Dashboard - Customer Retention Analysis
+# PwC Virtual Internship - Churm Dashboard
 
 ## Project Overview
 This project aims to analyze customer churn and retention for a telecommunications company. The objective is to provide actionable insights to the retention manager by creating a comprehensive dashboard that visualizes key performance indicators (KPIs) related to customer churn.
